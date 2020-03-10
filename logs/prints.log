@@ -1,7 +1,0 @@
-18:17:11.415 [main] INFO  Resource.Base - Navigated to home page
-18:17:12.803 [main] INFO  Resource.Base - sucessfully validated home page
-18:17:12.962 [main] INFO  Resource.Base - sucessfully validated header page
-18:24:28.482 [main] INFO  Resource.Base - Driver is intialized
-18:24:35.214 [main] INFO  Resource.Base - Navigated to home page
-18:24:39.396 [main] INFO  Resource.Base - sucessfully validated home page
-18:24:39.463 [main] INFO  Resource.Base - sucessfully validated header page
