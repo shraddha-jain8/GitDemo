@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Automation_new1/src/main/java"/>
+	<classpathentry excluding="stepDefination1/" kind="src" path="Automation_new1/src/test/java"/>
+	<classpathentry kind="src" path="Automation_new1/src/test/java/stepDefination1"/>
+	<classpathentry kind="output" path="Automation_new1/target/classes"/>
+</classpath>
